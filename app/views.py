@@ -1,4 +1,3 @@
-import swapi
 import json
 import requests
 from django.shortcuts import render
